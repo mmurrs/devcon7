@@ -1,4 +1,4 @@
-# devcon7
+# Devcon 7 - References
 An evergreen reference from Devcon 7
 
 A set of talks and videos that will be useful references going forward. 
