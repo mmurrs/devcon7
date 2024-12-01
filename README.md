@@ -22,12 +22,7 @@ https://youtu.be/IYZiYFzIzKc?si=0pIs3TntGm7ND88k)
 
 [Solving Multichain UX: Lessons from Cosmos for the Rollup Ecosystem](https://youtu.be/2J2XDbN8Q6M?si=eEJR7dtrhK4a-bqP)
 
-## Cypherpunk
-[Ethereum Citizen: Embracing Self-Sovereign Digital Identity](https://youtu.be/jK5uGFCH9HY?si=Hcfz4hJ2DEQ2Z6A-)
-
 [Next Generation Based Rollups: A Practical Approach to Unifying Ethereum](https://youtu.be/Ier_f5V4_ow?si=1muifU7Bd-JfX1zt)
-
-
 
 ## Core Protocol
 [From PeerDAS to FullDAS: towards massive scalability with 32MB blocks and beyond](https://www.youtube.com/watch?v=Y8VKmyJMAUk)
@@ -46,3 +41,6 @@ https://youtu.be/IYZiYFzIzKc?si=0pIs3TntGm7ND88k)
 
 [Stablecoin Technicalities: Innovations, Challenges, and Opportunities](https://youtu.be/NShae3X5QHA?si=1UbINT6gPhNuviep)
 f
+
+## Cypherpunk
+[Ethereum Citizen: Embracing Self-Sovereign Digital Identity](https://youtu.be/jK5uGFCH9HY?si=Hcfz4hJ2DEQ2Z6A-)
